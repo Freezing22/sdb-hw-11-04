@@ -37,5 +37,3 @@
 2. ![Задание 2](https://github.com/Freezing22/hw-03/blob/main/img/PNG3.png)
 3. ![Задание 2](https://github.com/Freezing22/hw-03/blob/main/img/PNG4.png)
 
-
----
